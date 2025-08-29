@@ -16,7 +16,7 @@ It’s a simple and beginner-friendly project that showcases who I am, my educat
 - Education and work experience
 - Skills overview
 - Contact section with social links
-- No JavaScript — 100% HTML + CSS
+
 
 ---
 
