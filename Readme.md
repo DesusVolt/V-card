@@ -38,6 +38,6 @@ You can open the `index.html` file in any web browser, or view it live if deploy
 If you'd like to clone and run it locally:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git https://github.com/DesusVolt/V-card.git
+cd V-card
 open index.html
